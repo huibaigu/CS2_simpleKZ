@@ -1,0 +1,14 @@
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\simple_kz.csproj.AssemblyReference.cache
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\simple_kz.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\simple_kz.AssemblyInfoInputs.cache
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\simple_kz.AssemblyInfo.cs
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\simple_kz.csproj.CoreCompileInputs.cache
+D:\cs2_servers\game\csgo\addons_code\simple_kz\bin\Debug\net8.0\simple_kz.deps.json
+D:\cs2_servers\game\csgo\addons_code\simple_kz\bin\Debug\net8.0\simple_kz.dll
+D:\cs2_servers\game\csgo\addons_code\simple_kz\bin\Debug\net8.0\simple_kz.pdb
+D:\cs2_servers\game\csgo\addons_code\simple_kz\bin\Debug\net8.0\CounterStrikeSharp.API.dll
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\simple_kz.csproj.Up2Date
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\simple_kz.dll
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\refint\simple_kz.dll
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\simple_kz.pdb
+D:\cs2_servers\game\csgo\addons_code\simple_kz\obj\Debug\net8.0\ref\simple_kz.dll
